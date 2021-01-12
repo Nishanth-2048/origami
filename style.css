@@ -1,0 +1,30 @@
+h1{
+    color: #63D3BB;
+    
+}
+
+.menu{
+    color:#63D3BB;
+    display: flex;
+    justify-content: space-between;
+}
+
+.note{
+    color:#63D3BB;
+
+}
+
+.models{
+    color:#63D3BB;
+    font-style: italic;
+    text-align: center;
+    letter-spacing:1px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+body{
+
+    background-color: black;
+}
